@@ -1,5 +1,4 @@
 # PHP_Laravel12_Venture
-# Laravel Venture Clean Demo
 
 Project Name: venture-clean-demo
 
